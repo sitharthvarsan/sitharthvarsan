@@ -1,6 +1,6 @@
 <!-- Animated SVG Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sitharthvarsan/sitharthvarsan/main/sitharth-banner.svg" alt="Sitharth Varsan Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=40F8FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Sitharth+Varsan+S.;Welcome+to+my+GitHub+profile+👨‍💻" />
 </p>
 
 <!-- Profile Header -->
