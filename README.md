@@ -1,21 +1,28 @@
-<!-- Header with Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Sitharth Varsan+S.;AI+%7C+ML+%7C+NLP+%7C+LLMs+Enthusiast;Welcome+to+my+GitHub+Universe+🚀" />
-</div>
+<!-- Animated SVG Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sitharthvarsan/sitharthvarsan/main/sitharth-banner.svg" alt="Sitharth Varsan Banner" />
+</p>
+
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Sitharth+Varsan+S;AI+%7C+ML+%7C+NLP+%7C+DL+Enthusiast;HackFest+Finalist+%7C+SNU+Athlete+%7C+Real-Time+AI+Builder" />
+</p>
+
+<p align="center">
+  <a href="mailto:sitharthvarsan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sitharth-varsan-s-934764354"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sitharthvarsan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/163gGrnDMEau0NbE3iPGEz_i3_c-OVzlQ/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-008080?style=flat&logo=google-drive&logoColor=white"/></a>
+</p>
 
 ---
 
-<!-- Profile Summary Card -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212470483-09c0efb5-b9c1-4a92-8f91-586f1fa8a72d.png" width="800"/>
-</div>
-
----
-
-### 📌 About Me
+## 🧑‍💼 About Me
 
 ```yaml
-💡 AI/ML Enthusiast | 🚀 Problem Solver | 🎯 Goal-Oriented
-🎓 Student @ SNU Chennai | 🛠️ Real-Time Systems + NLP Fan
-📦 Working on scalable AI pipelines, LLMs integration
-📫 Email: sitharthvarsan.email@example.com
+🎓 B.Tech in Artificial Intelligence & Data Science @ Shiv Nadar University, Chennai
+🧠 Passionate about: Machine Learning, Deep Learning, NLP, Cybersecurity, Gen AI
+📊 Experienced with: Video Processing, Background Subtraction, LightGBM, Gamma Correction
+🏆 HackFest Finalist | Real-time AI & Anomaly Detection Projects
+🏀 SNU Basketball Player - 1st @ Independence Cup, 3rd @ Guru Fest
+💼 Seeking: Internship or full-time roles in AI, CV, NLP, Cybersecurity
