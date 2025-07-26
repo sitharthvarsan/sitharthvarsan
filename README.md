@@ -12,7 +12,7 @@
   <a href="mailto:sitharthvarsan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/sitharth-varsan-s-934764354"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/sitharthvarsan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/163gGrnDMEau0NbE3iPGEz_i3_c-OVzlQ/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-008080?style=flat&logo=google-drive&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1P8DqRD36R2fpqr8t7tb2epWEFsRm6cgT/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-008080?style=flat&logo=google-drive&logoColor=white"/></a>
 </p>
 
 ---
